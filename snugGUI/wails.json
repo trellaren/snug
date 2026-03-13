@@ -1,0 +1,13 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "snugGUI",
+  "outputfilename": "snugGUI",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "trellaren",
+    "email": "10820376+trellaren@users.noreply.github.com"
+  }
+}
